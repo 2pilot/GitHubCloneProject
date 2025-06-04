@@ -1,2 +1,3 @@
 # GitHubCloneProject - Branching and Merge Conflicts Task 
-Modification in main branch.
+**Objective:**  
+Practice creating branches, merging changes, and resolving conflicts in Git.
